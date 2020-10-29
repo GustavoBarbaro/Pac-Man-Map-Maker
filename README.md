@@ -1,1 +1,1 @@
-This piece of code is userful to construc a matrix that contains "1" in painted blocks, and "0" in the rest. So, I made this for my Pac-Man project where, I draw the walls and my Pac-Man is able to run in my drawing only verify if there "1" around you.
+This piece of code is userful to construct a matrix that contains "1" in painted blocks, and "0" in the rest. So, I made this for my Pac-Man project where, I draw the walls and my Pac-Man is able to run in my drawing only checking if there "1" around.
